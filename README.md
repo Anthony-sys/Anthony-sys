@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Anthony-sys
-- 👀 I’m interested in hacking
+- 👀 I’m interested in Offensive security
 - 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on writing a ransome ware 
 - 📫 How to reach me ...
 
 <!---
